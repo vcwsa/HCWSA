@@ -11,7 +11,7 @@ toc: true
 
 > 版本说明：本文由 2023 版手册的 TeX 源文档转换而来，保留原稿内容。文中的政策、金额、联系方式及链接未作时效性核验；本次转换不代表内容已更新。
 
-![亚琛新生手册 2023 封面](assets/34a747eec504.png)
+![亚琛新生手册 2023 封面](https://i.ibb.co/Qjt6gHmx/2023-01-2023.png)
 
 ## 目录
 
@@ -177,7 +177,7 @@ toc: true
 
 <a id="figure-1"></a>
 
-![Düsseldorf](assets/74722267d849.png)
+![Düsseldorf](https://i.ibb.co/ZzJDk6T6/2023-02-D-sseldorf.png)
 
 <a id="section-013"></a>
 
@@ -221,7 +221,7 @@ RWTH 的职能部门负责的事宜多有交叉，但行事方式都跟学生秘
 
 <a id="figure-2"></a>
 
-![vcwsaachen](assets/51c381160a97.jpg)
+![vcwsaachen](https://i.ibb.co/BVf0KV9g/2023-03-vcwsaachen.jpg)
 
 <a id="section-015"></a>
 
@@ -313,15 +313,15 @@ RWTH 的职能部门负责的事宜多有交叉，但行事方式都跟学生秘
 
 <a id="figure-3"></a>
 
-![DB1](assets/5fd17abf6a55.png)
+![DB1](https://i.ibb.co/Qvhhd5sF/2023-04-DB1.png)
 
-![DB2](assets/51791aaf7dd1.png)
+![DB2](https://i.ibb.co/ynwp95RK/2023-05-DB2.png)
 
-![Sparkasse1](assets/e717e83d4194.png)
+![Sparkasse1](https://i.ibb.co/b5vJYxxP/2023-06-Sparkasse1.png)
 
-![Sparkasse2](assets/74f53c3f15b6.png)
+![Sparkasse2](https://i.ibb.co/20K26qqs/2023-07-Sparkasse2.png)
 
-![N26](assets/a0e3791cd179.jpg)
+![N26](https://i.ibb.co/5hnJGrgQ/2023-08-N26.jpg)
 
 图：德银、Sparkasse Aachen 和 N26 的 IBAN 和 BIC
 
@@ -441,7 +441,7 @@ N26 的开户和激活能在小红书、知乎等大部份华语社区里找到�
 
 <a id="figure-4"></a>
 
-![AOK](assets/c0c7e7855909.jpg)
+![AOK](https://i.ibb.co/6R2WxKWy/2023-09-AOK.png)
 
 图：亚琛的 AOK 门店
 
@@ -625,19 +625,19 @@ Tips：如果您的房东或认识的同学是在这读书的学生的话，不�
 
 <a id="figure-5"></a>
 
-![位于 Katschhof 的市政厅、Rathaus 和大教堂](assets/ad227946b43b.png)
+![位于 Katschhof 的市政厅、Rathaus 和大教堂](https://i.ibb.co/4wGLDYTp/2023-10-Katschhof-Rathaus.png)
 
 图：位于 Katschhof 的市政厅、Rathaus 和大教堂。实线：**市政厅/Bürgerservice Katschhof**；虚线：**Rathaus Aachen/City Hall Aachen**；点线：**大教堂/Aachener Dom/Aachen Cathedral**。
 
 <a id="figure-6"></a>
 
-![SuperC 和 Templergraben 和 Hauptgebäude](assets/70445cf052d6.png)
+![SuperC 和 Templergraben 和 Hauptgebäude](https://i.ibb.co/6RFG92TR/2023-11-Super-C-Templergraben-Hauptgeb-ude.png)
 
 图：位于 Templergraben (黄线) 一侧的 **SuperC** (右图右侧建筑) 和 **主楼/Hauptgebäude** (右图左侧建筑)。
 
 <a id="figure-7"></a>
 
-![外管局](assets/243b632901e6.png)
+![外管局](https://i.ibb.co/0jVDvKX6/2023-12.png)
 
 图：外管局/Ausländeramt
 
@@ -753,31 +753,31 @@ RWTH的学生管理系统几乎承包了这个学校的所有业务，如无意�
 
 <a id="figure-8"></a>
 
-![RWTHonline](assets/64be433e1683.png)
+![RWTHonline](https://i.ibb.co/fjPhJKj/2023-13-RWTHonline.png)
 
 图：[RWTHonline](https://online.rwth-aachen.de/)
 
 <a id="figure-9"></a>
 
-![idm](assets/139e733172e4.png)
+![idm](https://i.ibb.co/nskhdDJ8/2023-14-idm.png)
 
 图：[IdM Selfservice](https://idm.rwth-aachen.de/selfservice)
 
 <a id="figure-10"></a>
 
-![RWTHmoodle](assets/f9c6619b0953.png)
+![RWTHmoodle](https://i.ibb.co/990KNb6N/2023-15-RWTHmoodle.png)
 
 图：[RWTHmoodle](https://moodle.rwth-aachen.de/)
 
 <a id="figure-11"></a>
 
-![RWTHApp_1](assets/a5e4ea47fa8d.jpg)
+![RWTHApp_1](https://i.ibb.co/TDn07r0M/2023-16-RWTHApp-1.jpg)
 
-![RWTHApp_2](assets/0809b446f501.jpg)
+![RWTHApp_2](https://i.ibb.co/9mNRsLHn/2023-17-RWTHApp-2.jpg)
 
-![RWTHApp_3](assets/df59480945f6.jpg)
+![RWTHApp_3](https://i.ibb.co/d4t9m1FC/2023-18-RWTHApp-3.jpg)
 
-![RWTHApp_4](assets/ff8cd63763e9.jpg)
+![RWTHApp_4](https://i.ibb.co/gM2BRvcp/2023-19-RWTHApp-4.jpg)
 
 图：[RWTHApp](https://play.google.com/store/apps/details?id=de.rwth_aachen.rz.rwthapp&hl=en)
 
@@ -928,25 +928,25 @@ RWTH 有一个福利是毕业之际可以移除不良成绩——就是那些虽
 
 <a id="figure-12"></a>
 
-![Audimax 和 C.A.R.L.](assets/edb457c34d37.png)
+![Audimax 和 C.A.R.L.](https://i.ibb.co/bgv94FFf/2023-20-Audimax-C-A-R-L.png)
 
 图：Audimax 和 C.A.R.L.
 
 <a id="figure-13"></a>
 
-![Bibliothek 和 Semi90](assets/b74943030cec.png)
+![Bibliothek 和 Semi90](https://i.ibb.co/V0QtQyKQ/2023-21-Bibliothek-Semi90.png)
 
 图：Bibliothek 和 Semi90
 
 <a id="figure-14"></a>
 
-![Mogam](assets/868368b3ff84.png)
+![Mogam](https://i.ibb.co/ZRWFg1Ln/2023-22-Mogam.png)
 
 图：前往 Mogam 自习室的路
 
 <a id="figure-15"></a>
 
-![自习室内景 (以 Mogam 为例)](assets/f3b7a441393d.jpg)
+![自习室内景 (以 Mogam 为例)](https://i.ibb.co/xSXVBCQf/2023-23-Mogam.jpg)
 
 图：自习室内景 (以 Mogam 为例)
 
@@ -1028,7 +1028,7 @@ Bachelorarbeit (BA)和Masterarbeit (MA)的开始时间以教授在Erfassungsboge
 
 <a id="figure-16"></a>
 
-![logo](assets/3c7637537039.png)
+![logo](https://i.ibb.co/W4WTV7QW/2023-24-logo.png)
 
 <a id="section-066"></a>
 
@@ -1076,7 +1076,7 @@ Bachelorarbeit (BA)和Masterarbeit (MA)的开始时间以教授在Erfassungsboge
 
 <a id="figure-17"></a>
 
-![公交内景和RWTH特色的人行道交通灯](assets/37558035f0b1.png)
+![公交内景和RWTH特色的人行道交通灯](https://i.ibb.co/C5SvhL1d/2023-25-RWTH.png)
 
 图：左图：公交车的“STOP”停车铃以及窗外的自行车停放杆；右图：RWTH特色的人行道交通灯
 
@@ -1096,7 +1096,7 @@ DB 的延误也是出了名的。在规划重要日程 (如赶飞机或重要会
 
 <a id="figure-18"></a>
 
-![左图：车门上的开门按钮和便于坐轮椅人士上下车的衔接台；中图：亚琛主火月台；右图：列车内景](assets/a5982ef96c8f.png)
+![左图：车门上的开门按钮和便于坐轮椅人士上下车的衔接台；中图：亚琛主火月台；右图：列车内景](https://i.ibb.co/xn3W63X/2023-26.png)
 
 图：左图：车门上的开门按钮和便于坐轮椅人士上下车的衔接台；中图：亚琛主火月台；右图：列车内景
 
@@ -1132,7 +1132,7 @@ DB 的延误也是出了名的。在规划重要日程 (如赶飞机或重要会
 
 <a id="figure-19"></a>
 
-![自行车](assets/3db3cc8059b6.png)
+![自行车](https://i.ibb.co/s9t89S34/2023-27.png)
 
 图：左图：红色自行车道；中图：SuperC 前的自行车停放处；右图：倒U形的自行车停放杆和 TIER 滑板车
 
@@ -1172,7 +1172,7 @@ Sparkasse Aachen 在亚琛有很多 ATM 机，相较之下德银的 ATM 机如�
 
 <a id="figure-20"></a>
 
-![REWE超市的自动找零机和POS机](assets/1625db37cf41.png)
+![REWE超市的自动找零机和POS机](https://i.ibb.co/zWVwhB0V/2023-28-REWE-POS.png)
 
 图：REWE超市的自动找零机和POS机
 
@@ -1196,7 +1196,7 @@ Sparkasse Aachen 在亚琛有很多 ATM 机，相较之下德银的 ATM 机如�
 
 <a id="figure-21"></a>
 
-![德国常见的四家连锁超市：Kaufland、ALDI、REWE、LiDL](assets/9b31cfd99f4a.png)
+![德国常见的四家连锁超市：Kaufland、ALDI、REWE、LiDL](https://i.ibb.co/CsmQzmpK/2023-29-Kaufland-ALDI-REWE-Li-DL.png)
 
 图：德国常见的四家连锁超市：Kaufland、ALDI、REWE、LiDL
 
@@ -1204,7 +1204,7 @@ Sparkasse Aachen 在亚琛有很多 ATM 机，相较之下德银的 ATM 机如�
 
 <a id="figure-22"></a>
 
-![TEDI、Euroshop 和 POCO](assets/4a52ab7d7fde.png)
+![TEDI、Euroshop 和 POCO](https://i.ibb.co/zW6qPT2C/2023-30-TEDI-Euroshop-POCO.png)
 
 图：TEDI、Euroshop 和 POCO
 
@@ -1214,7 +1214,7 @@ Sparkasse Aachen 在亚琛有很多 ATM 机，相较之下德银的 ATM 机如�
 
 <a id="figure-23"></a>
 
-![日化用品如 DM 和 ROSSMANN；大型商场如 AQUIS PLAZA 和 Müller](assets/9fea825b3db7.png)
+![日化用品如 DM 和 ROSSMANN；大型商场如 AQUIS PLAZA 和 Müller](https://i.ibb.co/8DDSQ4bZ/2023-31-DM-ROSSMANN-AQUIS-PLAZA-M-ller.png)
 
 图：日化用品如 DM 和 ROSSMANN；大型商场如 AQUIS PLAZA 和 Müller
 
@@ -1232,7 +1232,7 @@ Sparkasse Aachen 在亚琛有很多 ATM 机，相较之下德银的 ATM 机如�
 
 <a id="figure-24"></a>
 
-![中华行、万家和乐购](assets/5bce9a7f1bad.png)
+![中华行、万家和乐购](https://i.ibb.co/ccxfsNpq/2023-32.png)
 
 图：中华行、万家和乐购
 
@@ -1260,25 +1260,25 @@ Sparkasse Aachen 在亚琛有很多 ATM 机，相较之下德银的 ATM 机如�
 
 <a id="figure-25"></a>
 
-![ESStW-1](assets/5fb2bfeca96d.jpg)
+![ESStW-1](https://i.ibb.co/KxrRW452/2023-33-ESSt-W-1.jpg)
 
-![Academica 3](assets/aa9fe9076e4b.jpg)
+![Academica 3](https://i.ibb.co/Xf8TjN9N/2023-34-Academica-3.jpg)
 
-![MensaAhornstrasse1](assets/bc3991cfb4a7.jpg)
+![MensaAhornstrasse1](https://i.ibb.co/p6w0DmMM/2023-35-Mensa-Ahornstrasse1.jpg)
 
-![Mensa Bayernallee 2](assets/80a9fc9fc89b.jpg)
+![Mensa Bayernallee 2](https://i.ibb.co/p61mCTHc/2023-36-Mensa-Bayernallee-2.jpg)
 
-![Bistro1](assets/c3468b43feca.jpg)
+![Bistro1](https://i.ibb.co/k6SjY1fG/2023-37-Bistro1.jpg)
 
-![mensa Eupener Strasse 2](assets/d96e55a1af0b.jpg)
+![mensa Eupener Strasse 2](https://i.ibb.co/bM2jpn0D/2023-38-mensa-Eupener-Strasse-2.jpg)
 
-![Goethestrasse7](assets/7cd913e06ca1.jpg)
+![Goethestrasse7](https://i.ibb.co/SDzRQNqV/2023-39-Goethestrasse7.jpg)
 
-![mensajuelich6](assets/7b909cc145a3.jpg)
+![mensajuelich6](https://i.ibb.co/Z6SRVPgX/2023-40-mensajuelich6.jpg)
 
-![Suedpark-1](assets/e8a7693f40df.jpg)
+![Suedpark-1](https://i.ibb.co/cSpksWgz/2023-41-Suedpark-1.jpg)
 
-![MensaVita2](assets/79ecf115c815.jpg)
+![MensaVita2](https://i.ibb.co/B2thDVTs/2023-42-Mensa-Vita2.jpg)
 
 图：从左到右从上到下分别为：Cafeteria ESStw, Mensa Academica, Mensa Ahomstraße, Mensa Bayemallee, Mensa Bistro Templergraben, Mensa Eupener Straße, Mensa Goethestraße, Mensa Jülich, Mensa Südpark, Mensa Vita
 
@@ -1310,7 +1310,7 @@ Sparkasse Aachen 在亚琛有很多 ATM 机，相较之下德银的 ATM 机如�
 
 <a id="figure-26"></a>
 
-![大麦鑫隆](assets/720909a9e50a.png)
+![大麦鑫隆](https://i.ibb.co/nMB2bHZ0/2023-43.png)
 
 图：左图：大麦；右图：鑫隆
 
@@ -1382,7 +1382,7 @@ Sparkasse Aachen 在亚琛有很多 ATM 机，相较之下德银的 ATM 机如�
 
 <a id="figure-27"></a>
 
-![trash_bin](assets/3140e38f7b9b.jpg)
+![trash_bin](https://i.ibb.co/DDx7YVzT/2023-44-trash-bin.jpg)
 
 在德国，垃圾在回收前须进行分类，所属垃圾桶的颜色也不相同。[亚琛市官网](http://www.aachen.de/CHIN/kurzinfo.html)有[垃圾分类专栏](http://www.aachen.de/de/stadt_buerger/aachener_stadtbetrieb/leistungen/abfallwirtschaft/abfalltrennung/index.html)。下面简单介绍一下：
 
@@ -1432,7 +1432,7 @@ DHL 和 Hermes 都有各自对应的 APP，可以用于寄快递和追踪包裹�
 
 <a id="figure-28"></a>
 
-![烟雾报警器](assets/650e9628e86e.jpg)
+![烟雾报警器](https://i.ibb.co/h1f5LmCm/2023-45.jpg)
 
 德国的报警电话是110，火警和急救都是112。
 
@@ -1726,4 +1726,4 @@ Amazon 的德国和美国账户密码互通，但订单信息不互通；和中�
 
 [↩ 返回正文](#note-ref-20)
 
-![亚琛新生手册 2023 封底](assets/45b342f7d7ca.jpg)
+![亚琛新生手册 2023 封底](https://i.ibb.co/237HXnWh/2023-46-2023.jpg)

@@ -186,6 +186,14 @@ doc["blocks"] = blocks
 body = pandoc(json.dumps(doc), "json", "gfm")
 # Replace print-oriented reference prefixes with natural web link wording.
 body = re.sub(r"\b(?:Sec|Fig|Table)\s+(?=\[)", "", body)
+# Preserve successfully uploaded URLs when regenerating from the same assets.
+uploads = OUT / "image-uploads.json"
+if uploads.exists():
+    for entry in json.loads(uploads.read_text())["images"]:
+        local = OUT / entry["local_path"]
+        if (entry["status"] == "uploaded" and local.is_file()
+                and hashlib.sha256(local.read_bytes()).hexdigest() == entry["sha256"]):
+            body = body.replace("](" + entry["local_path"] + ")", "](" + entry["url"] + ")")
 frontmatter = '''---
 title: 亚琛新生手册（2023 版）
 subtitle: Aachen 及周边、初来乍到、在亚琛学习和生活
